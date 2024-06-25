@@ -13,7 +13,7 @@ I'm 40 y.o. leading service engineer in company that produces electronic devices
 During my introduction to programming I didn't used it as a professional skill. May be it is because I haven't found what I'm more interested in yet. So, I keep wandering in this ocean, and who knows, may be frontend (or even web at all) is my cup of tea.
 
 ### Skills
-    
+
 
 ### Code Example
     
@@ -22,7 +22,13 @@ During my introduction to programming I didn't used it as a professional skill. 
     
 
 ### Education
-    
+* Institutions:
+    + 2018 Belarusian State University of Informatics and Radioelectronics / Faculty of computer-aided design
+    + 2006 Borisov State Polytechnical College / Department of instrument engineering
+* Courses:
+    + JavaScript / Front-end Course
+Pre-school on [RS School][4] (in progress)
+    + Introduction to Computer Science and Programming Using Python on [edX][5] (in progress)
 
 ### Languages
     
@@ -31,3 +37,5 @@ During my introduction to programming I didn't used it as a professional skill. 
 [1]: mailto:alyaromin@gmail.com
 [2]: https://t.me/alyaromin
 [3]: https://www.linkedin.com/in/alyaromin
+[4]: https://rs.school/
+[5]: https://www.edx.org/
