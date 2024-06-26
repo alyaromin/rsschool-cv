@@ -8,9 +8,11 @@ Telegram: [@alyaromin][2]
 LinkedIn: [https://www.linkedin.com/in/alyaromin][3] 
 
 ### About Me
-I'm 40 y.o. leading service engineer in company that produces electronic devices. I like my job and I'm good at consideration of complaints, finding malfunctions, defect analysis etc. From time to time I have to automate my routine and learning programming helps me with it.
+I'm 40 y.o. leading service engineer in company that produces electronic devices. I like my job and I'm good at consideration of complaints, finding malfunctions, defect analysis etc.
 
-During my introduction to programming I didn't used it as a professional skill. May be it is because I haven't found what I'm more interested in yet. So, I keep wandering in this ocean, and who knows, may be frontend (or even web at all) is my cup of tea.
+From time to time I try to automate my routine and learning programming helps me with it. I'm inspired with programming as a huge abstract field for creating things working in real life. But I've never used it as a professional skill.
+
+May be it is because I haven't found what I'm more interested in yet. So, I keep wandering in this ocean, and who knows, may be frontend (or even web at all) is my cup of tea.
 
 ### Skills
 
@@ -31,7 +33,9 @@ Pre-school on [RS School][4] (in progress)
     + Introduction to Computer Science and Programming Using Python on [edX][5] (in progress)
 
 ### Languages
-    
+* English - intermediate
+* Belarusian - native
+* Russian - native    
 
 
 [1]: mailto:alyaromin@gmail.com
