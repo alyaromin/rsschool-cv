@@ -15,7 +15,10 @@ From time to time I try to automate my routine and learning programming helps me
 May be it is because I haven't found what I'm more interested in yet. So, I keep wandering in this ocean, and who knows, may be frontend (or even web at all) is my cup of tea.
 
 ### Skills
-
+* Markdown
+* Git / Github
+* VSCode
+* Linux
 
 ### Code Example
     
