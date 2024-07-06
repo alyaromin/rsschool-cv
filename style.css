@@ -1,0 +1,74 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  font-family: "Arsenal SC", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: darkblue;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 10px;
+  line-height: 50px;
+  text-decoration: none;
+  color: white;
+}
+
+.footer {
+  background-color: darkblue;
+}
+
+#footer-row{
+  display: flex;
+  align-items: center;
+}
+
+#footer-col1, #footer-col3 {
+  float: left;
+  width: 45%;
+}
+
+#footer-col2 {
+  float: left;
+  width: 10%;
+}
+
+.footer-item {
+  padding: 15px 0;
+  text-align: center;
+  color: white;
+}
+
+.footer-link {
+  line-height: 50px;
+  text-decoration: none;
+  color: white;
+}
+
+.rsschool-logo {
+  width: 10%;
+  height: auto;
+  
+}
