@@ -2,7 +2,6 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
-  overflow-y: hidden;
 
   display: flex;
   flex-direction: column;
@@ -13,13 +12,31 @@ body {
   font-style: normal;
 }
 
-.container {
-  max-width: 1440px;
-  margin: 0 auto;
+header {
+  background-color: darkblue;
+  position: sticky;
+  top: 0;   
+  padding: 5px; 
 }
 
-.header {
-  background-color: darkblue;
+.header-row {
+  display: flex;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
+
+.col-2{
+  float: left;
+  width: 50%;
+}
+
+#my-name {
+  font-size: 3em;
+  text-align: center; 
+  color: white;
 }
 
 .nav-list {
@@ -36,23 +53,29 @@ body {
   color: white;
 }
 
-.footer {
+footer {
   background-color: darkblue;
+  bottom: 0;
+  padding: 10px;
 }
 
-#footer-row{
+.footer-row {
   display: flex;
   align-items: center;
 }
 
-#footer-col1, #footer-col3 {
+.footer-col-edge {
   float: left;
   width: 45%;
+  text-align: center;
+  color: white;
 }
 
-#footer-col2 {
+.footer-col-center {
   float: left;
   width: 10%;
+  text-align: center;
+  color: white;
 }
 
 .footer-item {
@@ -70,5 +93,21 @@ body {
 .rsschool-logo {
   width: 10%;
   height: auto;
-  
+}
+
+main {
+  flex-grow: 1;
+  overflow: auto;
+
+  padding: 0 10%;
+  font-weight: 400;
+}
+
+.main-photo {
+  width: 20%;
+  height: auto;
+}
+
+.main-link {
+  color: blue;
 }
