@@ -1,10 +1,148 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cv</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 </head>
+
 <body>
+  <header>
+    <div class="header-row">
+      <div class="col-2" id="my-name">
+        Aliaksandr Yaromin
+      </div>
+      <div class="col-2">
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+            <li class="nav-item"><a href="#about_me" class="nav-link">About Me</a></li>
+            <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+            <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+            <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>        
+  </header>
+
+  <main>   
+    <section>
+      <div class="row">
+        <div class="col-2">
+          <h1>Aliaksandr Yaromin</h1>
+          <p>
+            <img class="main-photo" src="./img/photo.jpg" alt="main-photo">
+          </p>
+        </div>
+        <div class="col-2">
+          <h2 id="contacts">Contacts</h2>
+          <ul>
+            <li>
+              E-mail: 
+              <a href="mailto:alyaromin@gmail.com" class="main-link">alyaromin@gmail.com</a>
+            </li>
+            <li>
+              Telegram:
+              <a href="https://t.me/alyaromin" class="main-link">@alyaromin</a>
+            </li>
+            <li>
+              LinkedIn:
+              <a href="https://www.linkedin.com/in/alyaromin" class="main-link">alyaromin</a>
+            </li>
+          </ul>          
+        </div> 
+      </div>                
+    </section>
+
+    <section>
+      <h2 id="about_me">About Me</h2>
+      <p>
+        I'm 40 y.o. leading service engineer in company that produces electronic devices. 
+        I like my job and I'm good at consideration of complaints, finding malfunctions, 
+        defect analysis etc.
+      </p>
+      <p>
+        From time to time I try to automate my routine and learning programming helps me with it. 
+        I'm inspired with programming as a huge abstract field for creating things working in 
+        real life. But I've never used it as a professional skill.
+      </p>
+      <p>
+        May be it is because I haven't found what I'm more interested in yet. So, I keep wandering 
+        in this ocean, and who knows, may be frontend (or even web at all) is my cup of tea.
+      </p>
+    </section>
+
+    <section>
+      <h2 id="skills">Skills</h2>
+        <ul>
+          <li>Markdown</li>
+          <li>Html</li>
+          <li>Css</li>
+          <li>Git / Github</li>
+          <li>VSCode</li>
+          <li>Linux</li>
+        </ul>
+    </section>
+    <section>
+      <h2 id="education">Education</h2>
+        <ul>
+          <li>Institutions
+            <ul>
+              <li>
+                2018 Belarusian State University of Informatics and Radioelectronics / 
+                Faculty of computer-aided design
+              </li>
+              <li>
+                2006 Borisov State Polytechnical College / 
+                Department of instrument engineering
+              </li>
+            </ul>
+          </li>
+          <li>Courses
+            <ul>
+              <li>
+                JavaScript / Front-end Course Pre-school on 
+                <a href="https://rs.school/courses/javascript-ru" class="main-link">RS School</a>
+              </li>
+              <li>
+                Introduction to Computer Science and Programming Using Python on 
+                <a href="https://www.edx.org/" class="main-link">eDX</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+    </section>
+    <section>
+      <h2 id="languages">Languages</h2>
+        <ul>
+          <li>English - intermediate</li>
+          <li>Belarusian - native</li>
+          <li>Russian - native</li>
+        </ul>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-row">
+      <div class="footer-col-edge">
+        <a href="https://github.com/alyaromin" class="footer-link">
+          Aliaksandr Yaromin
+        </a>
+      </div>
+      <div class="footer-col-center">
+        2024
+      </div>
+      <div class="footer-col-edge">
+        <a href="https://rs.school/courses/javascript-ru" class="footer-link">
+          <img class="rsschool-logo" src="./img/logo-rsschool3-inverted.png" alt="RS School Logo">
+        </a>
+      </div>
+    </div>    
+  </footer>
 </body>
 </html>
