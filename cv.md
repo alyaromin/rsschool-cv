@@ -8,7 +8,7 @@ Telegram: [@alyaromin][2]
 LinkedIn: [https://www.linkedin.com/in/alyaromin][3] 
 
 ### About Me
-I'm leading service engineer in company that produces electronic devices. I like my job and I'm good at consideration of complaints, finding malfunctions, defect analysis etc.
+I'm 40 y.o. leading service engineer in company that produces electronic devices. I like my job and I'm good at consideration of complaints, finding malfunctions, defect analysis etc.
 
 From time to time I try to automate my routine and learning programming helps me with it. I'm inspired with programming as a huge abstract field for creating things working in real life. But I've never used it as a professional skill.
 
